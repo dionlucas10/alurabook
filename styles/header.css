@@ -138,6 +138,7 @@
     .lista-menu-item:hover{
         background: var(--azul-degrade);
         color: var(--branco);
+        align-items: center;
     }
 
     .lista-menu-item:hover > .lista-menu-link{
